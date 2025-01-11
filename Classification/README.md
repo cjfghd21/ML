@@ -1,8 +1,6 @@
 # Project Classification
 The goal of this project is to implement from scratch the main Machine Learning techniques we have learned so far.
 
-## Introduction
-The code for this project consists of several Python files, some of which you will need to read and understand in order to complete the assignment, and some of which you can ignore. You can download each of these individually, or you can head to the Files page, select the p1 folder and click the Download as Zip button.
 
 ## Files
 dumbClassifiers.py: This contains a handful of "warm up" classifiers to get you used to our classification framework.
